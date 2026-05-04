@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-- 🎓 **Physical Science ** Undergraduate at **University of Sri Jayewardenepura**  
+- 🎓 **Physical Science** Undergraduate at **University of Sri Jayewardenepura**  
 - 🎓 **Data Analytics & Data Science** Undergraduate at **SLIIT**  
 - 🔍 Passionate about **Data, AI & Machine Learning**  
 - 🧠 Currently learning **TensorFlow, PyTorch, Scikit-learn**  
