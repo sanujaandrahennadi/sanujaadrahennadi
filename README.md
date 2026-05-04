@@ -34,6 +34,9 @@
   <a href="https://github.com/sanujaandrahennadi">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  <a href="mailto:sanujaandrahennadi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
