@@ -9,7 +9,8 @@
 
 ## 🌟 About Me
 
-- 🎓 Data Analytics & Data Science Undergraduate  
+- 🎓 **Physical Science ** Undergraduate at **University of Sri Jayewardenepura**  
+- 🎓 **Data Analytics & Data Science** Undergraduate at **SLIIT**  
 - 🔍 Passionate about **Data, AI & Machine Learning**  
 - 🧠 Currently learning **TensorFlow, PyTorch, Scikit-learn**  
 - 🌱 Always exploring new technologies  
